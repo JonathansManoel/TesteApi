@@ -12,6 +12,9 @@
  - Ative o ambiente virtual = `.venv\Scrips\activate`
  - Instale a dependencia = `pip install requests`
  
+### Como testar qualidade de código.
+`flake8`
+
 ---
 
 ## Execute o arquivo requisicao.py que é o Script da aplicação!
